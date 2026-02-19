@@ -56,6 +56,14 @@ Dashboard Integration and UI Design
 
 The main objective of this project is to analyze electric vehicle charge and range data using visualization techniques and present the insights through an interactive dashboard that improves understanding of EV performance trends.
 
+👥 Team Members (Internship Project)
+Team ID: LTVIP2026TMIDS24254
+
+👤 Team Leader: Challa Hemasri
+👤 Team Member: Chandu Mounika
+👤 Team Member: Chandika Vishnu Vardhan
+👤 Team Member:Deepak Yanna
+
 📎 License
 
 This project was developed as part of an internship/guided project program and is intended for educational purposes only.
