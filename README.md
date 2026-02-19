@@ -1,1 +1,3 @@
-# visualization-tool-for-electric-vehicle-charge-and-range-analysis
+The Visualization Tool for Electric Vehicle Charge and Range Analysis project focuses on analyzing electric vehicle (EV) performance using interactive data visualizations. The main objective is to understand how factors such as battery capacity, charging time, efficiency, and driving range affect EV performance.
+This project integrates data analytics and visualization techniques to present EV insights through an interactive dashboard developed using HTML, CSS, Bootstrap, and Tableau Software. The dashboard helps users easily interpret patterns in charging behavior, range distribution, and efficiency comparisons across different electric vehicle models.
+The system converts raw EV dataset values into meaningful charts and visual reports that support better understanding of electric mobility trends.
