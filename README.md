@@ -1,4 +1,5 @@
 Visualization Tool for Electric Vehicle Charge and Range Analysis
+
 This is a data visualization–based project developed during our internship to analyze and understand electric vehicle (EV) performance using interactive dashboards. The system helps visualize key metrics such as battery charge levels, driving range, charging time, and efficiency in a structured and user-friendly format.
 
 The project integrates web technologies with Tableau Software to transform raw EV dataset information into meaningful visual insights for analysis and decision-making.
